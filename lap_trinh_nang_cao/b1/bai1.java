@@ -1,6 +1,6 @@
-package lap_trinh_nang_cao;
+package lap_trinh_nang_cao.b1;
 
-public class b3 {
+public class bai1 {
     public static void main(String[] args) {
         System.out.println("ngoc anh");
     }
