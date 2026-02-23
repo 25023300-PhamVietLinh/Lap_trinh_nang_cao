@@ -1,0 +1,17 @@
+# Ignore Python
+*.py
+
+# Java compiled files
+*.class
+
+# Build folders
+bin/
+out/
+target/
+
+# VS Code
+.vscode/
+
+# OS files
+Thumbs.db
+.DS_Store
